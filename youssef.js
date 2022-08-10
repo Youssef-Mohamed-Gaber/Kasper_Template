@@ -43,10 +43,6 @@ my_kasper.onclick = function () {
 }
 
 
-window.onload = function () {
-    logo.click();
-}
-
 window.onscroll = function () {
     console.log(this.scrollY);
 
